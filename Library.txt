@@ -1,0 +1,12 @@
+{
+    "345678": {
+        "title": "Banana",
+        "author": "Yellow Man",
+        "quantity": 14
+    },
+    "189265": {
+        "title": "Hello Kitty",
+        "author": "Kat",
+        "quantity": 2
+    }
+}
